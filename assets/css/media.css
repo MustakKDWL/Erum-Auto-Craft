@@ -1,0 +1,530 @@
+@media only screen and (max-width: 991px) {
+
+  
+  .service-hr {
+    /* margin-bottom: 3vw; */
+    background-color: rgb(24, 67, 24);
+    width: 18rem;
+    margin-left: 18rem;
+    height: 0.5vw;
+  }
+  
+.services .box i {
+  font-size:8vh;
+  overflow: hidden;
+  /* padding: -0.5vw; */
+}
+.Service-h1 h1 {
+  font-size: 3.5rem;
+}
+.services .box {
+  height: 120px;
+  width: 200px;
+  font-weight: 700;
+  font-size: 2.9vh;
+  
+}
+.Service-image img{
+ 
+  width: 100vw;
+}
+
+
+  .right-side
+  {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+  }
+  .right-side h2
+  {
+    text-align: center;
+    font-size: 50px;
+    width: 60%;
+  }
+  .right-side p
+  {
+    width: 85%;
+    font-size: 1.9vw;
+    font-weight: 600;
+    padding-top: 15px;
+    opacity: 0.9;
+  }
+
+  .about_btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 11vw;
+  }
+  
+  .about_btn button {
+    height: 5vw;
+    width: 11vw;
+    background-color: var(--light);
+    border: none;
+    font-weight: 600;
+    font-size: 1.5vw;
+    cursor: pointer;
+    position: relative;
+    transition: all ease 0.4s;
+    overflow: hidden;
+    margin: 2px 30px;
+    
+  }
+  
+#about_pra {
+  font-size: 1.7vw;
+  font-weight: 600;
+  opacity: 0.9;
+  /* padding-top: 2vw; */
+}
+
+
+
+
+.box img {
+  height: 22vw;
+  width: 22vw;
+  border-radius: 50%;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+
+#whychosse-p{
+  font-size: 3vw;
+  font-weight: 700;
+  }
+  .why-hr {
+    /* margin-bottom: 3vw; */
+    background-color: rgb(255, 255, 255);
+    width: 22rem;
+    margin-left: 13.5rem;
+    height: 0.5vw;
+  }
+  .catogary-hr {
+
+      /* margin-bottom: 3vw; */
+      background-color: rgb(24, 67, 24);
+      width: 18rem;
+      margin-left: 19.5rem;
+      height: 0.5vw;
+    
+  }
+  
+
+
+  
+}
+@media only screen and (max-width: 600px) {
+  .footer-use{
+    margin-left: -50px
+  }
+  .footer-open{
+    margin-left: -80px
+  }
+  .Service-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -10vw;
+  }
+  .Service-image img{
+    width: 140vw;
+  }
+  .right-side h1
+  {
+    text-align: center;
+  }
+  .right-side h2
+  {
+    text-align: center;
+    font-size: 30px;
+    width:90vw;
+  }
+  .right-side p
+  {
+   
+    font-size: 4vw;
+    font-weight: 600;
+   
+  }
+
+  
+  .about_btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 11vw;
+  }
+  
+  .about_btn button {
+    height: 10vw;
+    width: 24vw;
+    background-color: var(--light);
+    border: none;
+    font-weight: 600;
+    font-size: 3.1vw;
+    cursor: pointer;
+    position: relative;
+    transition: all ease 0.4s;
+    overflow: hidden;
+    margin: 2px 15px;
+    
+  }
+  
+#about_pra {
+  font-size: 3.7vw;
+  font-weight: 600;
+  opacity: 0.9;
+  width: 90vw;
+  /* padding-top: 2vw; */
+}
+
+#about-img img{
+  height:110vw;
+  width: 90vw;
+}
+
+.about-hr{
+  background-color:rgb(10,35,16);
+  width: 5rem;
+  margin-left: rem;
+  height: 1vw;
+}
+
+/* why choose */
+
+.box img {
+  height: 31vw;
+  width: 31vw;
+  border-radius: 50%;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.why-hr{
+ 
+    background-color:white;
+    width: 8rem;
+    margin-left: 3.5rem;
+    height: 1vw;
+  }
+
+
+
+#whychosse-p{
+  font-size: 5vw;
+  font-weight: 700;
+  }
+
+#whychoose .box
+{
+  padding: 1px;
+}
+.box1{
+  margin-left: -10px;
+}
+.box2{
+  margin-left: 5px;
+}
+.box3{
+  margin-left: -10px;
+}
+.box4{
+  margin-left: 5px;
+}
+
+
+.services .box {
+  height: 100px;
+  width: 140px;
+  font-weight: 700;
+  font-size: 2vh;
+  margin: 15px 25px;
+}
+.services .box i {
+  font-size:5vh;
+}
+.Service-h1 h1 {
+  font-size: 2.7rem;
+}
+
+
+
+.right-side h1{
+  font-size: 2.7rem;    
+ }
+ .right-side {
+  margin-top: -10px;
+ }
+
+ .catogary1  {
+  margin-left: 50px;
+
+}.service-hr {
+  background-color:rgb(10, 35, 16);
+  width: 5rem;
+  margin-left: 9rem;
+  height: 1vw;
+}
+.catogary2 {
+  margin-left: 50px;
+  
+ 
+}
+.catogary3 {
+  margin-left: 50px;
+
+}
+.catogary4 {
+  margin-left: 50px;
+  
+ 
+}
+.write-catogary h3{
+  font-size: 5vw;
+}
+
+.catogary-hr {
+  background-color:rgb(10, 35, 16);
+  width: 9rem;
+  margin-left: 7.5rem;
+  height: 1vw;
+}
+.main-catogary{
+  margin-bottom: 50px;
+}
+.catogary1 {
+  width: 300px;
+  height: 320px;
+  background: url(../img/ATUL.RIKSHAW.png);
+  /* background-color: black; */
+  background-size: cover;
+  cursor: pointer;
+
+  -webkit-box-shadow: 0 0 5px #000;
+  box-shadow: 0 0 5px #000;
+
+}
+.catogary2 {
+  width: 300px;
+  height: 320px;
+
+  /* position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin: auto; */
+
+  background: url(../img/BAJAJ.RIKSHAW.png);
+  /* background-color: black; */
+  background-size: cover;
+  cursor: pointer;
+
+  -webkit-box-shadow: 0 0 5px #000;
+  box-shadow: 0 0 5px #000;
+}
+.catogary3 {
+  width: 300px;
+  height: 320px;
+
+  /* position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin: auto; */
+
+  background: url(../img/MAHINDRA.RIKSHAW.png);
+  /* background-color: black; */
+  background-size: cover;
+  cursor: pointer;
+
+  -webkit-box-shadow: 0 0 5px #000;
+  box-shadow: 0 0 5px #000;
+}
+.catogary4 {
+  width: 300px;
+  height: 320px;
+  background: url(../img/PIAAGIO.RIKSHAW.png);
+  background-size: cover;
+  cursor: pointer;
+
+  -webkit-box-shadow: 0 0 5px #000;
+  box-shadow: 0 0 5px #000;
+}
+.see-products button   {
+  padding: 2.5vw;
+  width: 48vw;
+  border-radius: 10vw 10vw 10vw 10vw;
+  position: relative;
+  transition: all ease 0.4s;
+  overflow: hidden;
+  margin-left: 23vw;
+  margin-bottom: 10vw;
+  font-size: 5vw;
+}
+
+.see-products button a{
+  text-decoration: none;
+  color: #000;
+}
+
+
+}
+
+@media only screen and (max-width: 400px){
+  .whatsapp-btn {
+    position: fixed;
+    bottom: 110px;
+    top: px;
+    right: 35px;
+    background-color: #25d366;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+
+    border: 2px solid #25d366;
+    /* z-index: 5; */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    font-weight: 700;
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    font-size: 20px;
+  
+  
+  
+  }
+ 
+  .box img {
+    height: 27vw;
+    width: 27vw;
+    border-radius: 50%;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  }
+  #whychoose h1{
+    font-size: 35px;
+  } 
+  .catogary1 {
+    width: 280px;
+    height: 300px;
+    background: url(../img/ATUL.RIKSHAW.png);
+    /* background-color: black; */
+    background-size: cover;
+    cursor: pointer;
+  
+    -webkit-box-shadow: 0 0 5px #000;
+    box-shadow: 0 0 5px #000;
+  
+  }
+  .catogary2 {
+    width: 280px;
+    height: 300px;
+  
+    /* position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto; */
+  
+    background: url(../img/BAJAJ.RIKSHAW.png);
+    /* background-color: black; */
+    background-size: cover;
+    cursor: pointer;
+  
+    -webkit-box-shadow: 0 0 5px #000;
+    box-shadow: 0 0 5px #000;
+  }
+  .catogary3 {
+    width: 280px;
+    height: 300px;
+  
+    /* position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto; */
+  
+    background: url(../img/MAHINDRA.RIKSHAW.png);
+    /* background-color: black; */
+    background-size: cover;
+    cursor: pointer;
+  
+    -webkit-box-shadow: 0 0 5px #000;
+    box-shadow: 0 0 5px #000;
+  }
+  .catogary4 {
+    width: 280px;
+    height: 300px;
+    background: url(../img/PIAAGIO.RIKSHAW.png);
+    background-size: cover;
+    cursor: pointer;
+  
+    -webkit-box-shadow: 0 0 5px #000;
+    box-shadow: 0 0 5px #000;
+  }
+  .catogary1  {
+    margin-left: 40px;
+  
+  }.service-hr {
+    background-color:rgb(10, 35, 16);
+    width: 5rem;
+    margin-left: 7.5rem;
+    height: 1vw;
+  }
+  .catogary2 {
+    margin-left: 40px;
+    
+   
+  }
+  .catogary3 {
+    margin-left: 40px;
+  
+  }
+  .catogary4 {
+    margin-left: 40px;
+    
+   
+  }
+  .why-hr {
+    /* margin-bottom: 3vw; */
+    background-color:wheat;
+    width: 6rem;
+    margin-left: 3.5rem;
+    height: 1vw;
+  }
+  .catogary-hr {
+
+    /* margin-bottom: 3vw; */
+    background-color:rgb(10, 35, 16);
+    width: 7rem;
+    margin-left: 7rem;
+    height: 1vw;
+  
+}
+
+}
+
+
+@media (max-width: 992px) and (min-width: 780px) {
+  .contact{
+    height: 185px;
+  
+  }
+  .contact p{
+    width: 18vw;
+  }
+  
+}
