@@ -10,17 +10,19 @@
   overflow-x:hidden;
 
 }
+
 html{
   scroll-behavior: smooth;
   
 }
 
-:root {
-  --primary: #006400;
-  --secondary: #D1D4C9;
-  --light: #DCE8F4;
-  --dark: #fef5df;
+:root{
+    --primary:#007F48;
+    --primary-dark:#005c34;
+    --accent:#ffcc33;
+    --white:#ffffff;
 }
+
 
 span {
   color: #007F48;
@@ -53,6 +55,9 @@ span {
 
 
 /* ========[header |start| ]=========  */
+
+/* ================= ERUM HERO ================= */
+/* =============== ERUME HERO =============== */
 
 
 .carousel-caption {
@@ -120,7 +125,7 @@ span {
 .page-header .breadcrumb-item a {
   font-size: 18px;
   color: var(--light);
-}
+} */
 
 /* ========[Header |end| ]=========  */
 
